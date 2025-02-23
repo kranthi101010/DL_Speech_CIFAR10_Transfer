@@ -1,4 +1,4 @@
-# DL_Speech_CIFAR10_Transfer
+# DL_Speech_CIFAR10_Transfer_Learning
 Deep Learning (DL), Speech Denoising, CIFAR-10, and Transfer Learning
 # Deep Learning for Speech Denoising and CIFAR-10 Classification
 
